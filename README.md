@@ -1,2 +1,2 @@
-# eost2021 발표자료
+# EOST2021 발표자료
 https://eostday.kr
